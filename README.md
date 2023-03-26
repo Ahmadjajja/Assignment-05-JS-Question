@@ -8,7 +8,7 @@ Mobile Application Development Course - Youtube (https://www.youtube.com/c/navee
 Assignment05, Week05
 
 Requirements: 
-
+```javascript
 1. Write a js program to print day of week name using switch case.
 
 2. Write a js program print total number of days in a month using switch case.
@@ -79,7 +79,7 @@ For unit above 250 Rs. 1.50/unit
 
 An additional surcharge of 20% is added to the bill
 
-
+```
 
 Submit:
 
